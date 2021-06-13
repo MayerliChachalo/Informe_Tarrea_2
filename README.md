@@ -153,19 +153,107 @@ c.  Determine la intercepción de temperatura del material
 
 33. Un resistor variable de 10 kΩ tiene su contacto deslizante (terminal movibleb) inicialmente en la terminal inferior c. Determine la resistencia Rabentre lasterminales ay b, y la resistencia Rbcentre las terminales by cdadas las si-guientes condiciones:
 
-a.  El contacto deslizante esta en c.
-
-b.  El contacto deslizante está a una quinta parte del trayecto de la superficieresistiva. 
-
-c.  El contacto deslizante está a cuatro quintas partes del trayecto de la super-ficie resistiva.
-
-d.  El contacto deslizante está en a.
-
 ![image](https://user-images.githubusercontent.com/85126275/121824666-7cadc380-cc73-11eb-9f6c-dad7aa0c6c7e.png)
 ![image](https://user-images.githubusercontent.com/85126275/121824669-80414a80-cc73-11eb-8f1a-b68612b53ddd.png)
 
+a.  El contacto deslizante esta en c.
 
-  ### EJERCICIOS CAPITULO 4
+![image](https://user-images.githubusercontent.com/85126275/121824744-11b0bc80-cc74-11eb-861e-9ee1181791ef.png)
+
+
+b.  El contacto deslizante está a una quinta parte del trayecto de la superficieresistiva. 
+
+![image](https://user-images.githubusercontent.com/85126275/121824747-170e0700-cc74-11eb-9df9-6f70e6717e64.png)
+
+
+c.  El contacto deslizante está a cuatro quintas partes del trayecto de la super-ficie resistiva.
+
+![image](https://user-images.githubusercontent.com/85126275/121824752-1d9c7e80-cc74-11eb-9956-0fcaac6cd372.png)
+
+
+d.  El contacto deslizante está en a.
+
+![image](https://user-images.githubusercontent.com/85126275/121824755-24c38c80-cc74-11eb-9231-062f4f892128.png)
+
+**3.6 Código de colores de resistores**
+
+35. Dados los resistores con los siguientes códigos de colores (de izquierda a de-recha) determine la resistencia, la tolerancia y la confiabilidad de cada com-ponente. Exprese la incertidumbre en porcentaje y en ohms. 
+
+a.  Café    Verde   Amarillo    Plata
+
+![image](https://user-images.githubusercontent.com/85126275/121825157-71a86280-cc76-11eb-832a-63bc5fc62143.png)
+
+
+b.  Rojo    Gris    Oro         Oro     Amarillo
+
+![image](https://user-images.githubusercontent.com/85126275/121825166-78cf7080-cc76-11eb-8bfa-fc02c9f1155c.png)
+
+
+c.  Amarillo  Violeta Azul      Oro
+
+![image](https://user-images.githubusercontent.com/85126275/121825171-7ff67e80-cc76-11eb-973f-ff384bf3fadf.png)
+
+
+d.  Naranja   Blanco  Negro     Oro     Rojo
+
+![image](https://user-images.githubusercontent.com/85126275/121825180-87b62300-cc76-11eb-8f8e-2a2852624550.png)
+
+**3.7 Medicion de resistencia: el óhmetro**
+
+37. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió.
+
+Se determina a través de óhmetro realizando una conexión entre las terminales, el óhmetro indica una conexión abierta la bombilla esta fundida.
+
+39. Explique cómo podría usar un óhmetro para determinar aproximadamentecuánto cable queda en un carrete de alambre de cobre AWG 24.
+
+En la tabla se puede observar que la resistencia del alambre AWG24 tiene una resistencia de 25.7 ohms/1000 pies se podría medir la resistencia entre los extremos y calcular la longitud
+ 
+I=R/(0.0257𝑜ℎ𝑚𝑠/𝑓𝑡)
+
+**3.8 Termistores**
+
+41. Un termistor tiene las características que se muestran en la figura 3-23.
+ 
+ ![image](https://user-images.githubusercontent.com/85126275/121825393-c0a2c780-cc77-11eb-9db9-dcb184dc744e.png)
+
+a.  Determine la resistencia del dispositivo a temperatura ambiente, 20°C.
+
+380 Ω
+
+b.  Determine la resistencia del dispositivo a 40°C. 
+
+180 Ω
+
+c.  ¿El  termistor  tiene  un  coeficiente  de  temperatura  positivo  o  negativo?Explique
+
+Coeficiente de temperatura negativo. La resistencia disminuye conforme se incrementa la temperatura.
+
+**3.11 Conducctancia** 
+
+43. Calcula las conductancia de las siguientes resistencias
+
+a.  0.25 Ω 
+
+4ms
+
+b.  500 Ω
+
+0.002 ms
+
+c.  250 kΩ 
+
+0.004us
+
+d.  12.5 MΩ
+
+0.08 S
+
+45. Determine la conductancia de una barra colectora de aluminio que mide 200pies (a una temperatura de 20°C) la cual tiene una sección transversal quemide 4.0 pulgadas 0.25 pulgadas. Si la temperatura aumentara, ¿qué pasa-ría con la conductancia de la barra?
+ 
+ ![image](https://user-images.githubusercontent.com/85126275/121825676-630f7a80-cc79-11eb-8cda-b9716c3d156f.png)
+
+ 
+ ### EJERCICIOS CAPITULO 4
 
 ## 4. VIDEO 
 
