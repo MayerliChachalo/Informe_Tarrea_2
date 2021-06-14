@@ -127,6 +127,13 @@ b.  Calcule la longitud del alambre en pies.
 
 ![image](https://user-images.githubusercontent.com/85126275/121824328-0e680180-cc71-11eb-8afb-b057f20a9923.png)
 
+
+26. Se diseña un alambre para uso doméstico de cobre sólido AWG 14 para operar dentro de un intervalo de temperatura de -40°C a 90°C. Calcule la resistencia de 200 pies de circuito de alambre a ambas temperaturas. Nota: un pie de circuito es la longitud del cable necesario para que la corriente viaje hacia una carga y de regreso.
+
+
+<img src="pares%20cap3/26.JPG" width=400 >
+
+
 27.  Cierto material tiene una resistencia de 20Ω a temperatura ambiente (20°C) y25 Ω a una temperatura de 85°C.
 
 a.  ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente.
