@@ -6,6 +6,12 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 ## 2. MARCO TEÓRICO 
 
+### Capitulo 3 
+
+![capitulo 3](https://user-images.githubusercontent.com/85126275/121970427-25275a80-cd3c-11eb-8943-c87dd7505911.jpg)
+
+
+### Capitulo 4 
 ![image](https://user-images.githubusercontent.com/85126275/121965202-497e3980-cd32-11eb-9e2c-1709be87b040.png)
 
 ![image](https://user-images.githubusercontent.com/85126275/121965232-5307a180-cd32-11eb-8821-2784283b129d.png)
