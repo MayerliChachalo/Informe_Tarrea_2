@@ -6,7 +6,15 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 ## 2. MARCO TEÓRICO 
 
-![image](https://user-images.githubusercontent.com/85126275/121908552-bbcf2980-ccf2-11eb-97ae-e2cb97a25672.png)
+![image](https://user-images.githubusercontent.com/85126275/121965202-497e3980-cd32-11eb-9e2c-1709be87b040.png)
+
+![image](https://user-images.githubusercontent.com/85126275/121965232-5307a180-cd32-11eb-8821-2784283b129d.png)
+
+![image](https://user-images.githubusercontent.com/85126275/121965249-5a2eaf80-cd32-11eb-920b-a1d0bff20586.png)
+
+![image](https://user-images.githubusercontent.com/85126275/121965260-5ef36380-cd32-11eb-8600-261982993f31.png)
+
+![image](https://user-images.githubusercontent.com/85126275/121965281-674b9e80-cd32-11eb-916d-dbcdfda6ce5c.png)
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
