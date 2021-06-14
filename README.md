@@ -131,7 +131,7 @@ b.  Calcule la longitud del alambre en pies.
 26. Se diseña un alambre para uso doméstico de cobre sólido AWG 14 para operar dentro de un intervalo de temperatura de -40°C a 90°C. Calcule la resistencia de 200 pies de circuito de alambre a ambas temperaturas. Nota: un pie de circuito es la longitud del cable necesario para que la corriente viaje hacia una carga y de regreso.
 
 
-<img src="pares%20cap3/26.JPG" width=400 >
+<img src="pares%20cap3/26.JPG" width=500 >
 
 
 27.  Cierto material tiene una resistencia de 20Ω a temperatura ambiente (20°C) y25 Ω a una temperatura de 85°C.
@@ -144,9 +144,22 @@ c.  Suponga que la función de resistencia frente a temperatura es lineal y de-t
 
 ![image](https://user-images.githubusercontent.com/85126275/121824369-63a41300-cc71-11eb-96fd-746175780b99.png)
 
+28. Cierto material tiene una resistencia de 100 Ω a temperatura ambiente (20°C) y de 150 Ω a -25°C. a. ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente. 
+
+Cualquier material para el cual la resistencia aumenta conforme se incrementa la temperatura se dice que tiene un coeficiente de temperatura positivo 
+Conforme la temperatura se incrementa, el número de electrones de carga aumenta, lo que resulta en más corriente. 
+
+Por lo tanto, un incremento en la temperatura resulta en una disminución de la resistencia y, en consecuencia, estos materiales tienen coeficientes de temperatura negativos.
+
+b. Determine al valor del coeficiente de temperatura, a, a 20°C. 
+
+<img src="main/pares%20cap3/28.JPG" width=500 >
+
 29. Un calentador eléctrico está hecho de alambre de nicromo. El alambre tieneuna resistencia de 15.2 Ω a una temperatura de 20°C. Determine la resistenciadel alambre de nicromo cuando su temperatura aumente a 260°C.
 
 ![image](https://user-images.githubusercontent.com/85126275/121824414-ba115180-cc71-11eb-9e85-7d385e9164e9.png)
+
+30. Un diodo de silicio tiene una resistencia de 500 Ω a 20°C. Determine la resistencia del diodo si su temperatura se incrementa con un cautín a 30° C. (Suponga que la función de resistencia frente a temperatura es lineal.)
 
 31. Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El disposi-tivo tiene una resistencia de 120Ω a una temperatura de -20°C y de 190 Ω a120°C. 
 
@@ -157,6 +170,12 @@ b.  Calcule la resistencia a una temperatura de 80°C.
 c.  Determine la intercepción de temperatura del material
 
 ![image](https://user-images.githubusercontent.com/85126275/121824585-cc3fbf80-cc72-11eb-8909-f18ae88f0bc8.png)
+
+32. Deduzca la expresión de la ecuación 3-8
+
+Para calcular la resistencia de un conductor a diferentes temperaturas
+
+<img src="pares%20cap3/30.JPG" width=500 >
 
 **3.5 Tipos de resistorez**
 
