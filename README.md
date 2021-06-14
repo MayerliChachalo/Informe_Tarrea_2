@@ -6,6 +6,8 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 ## 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/85126275/121908552-bbcf2980-ccf2-11eb-97ae-e2cb97a25672.png)
+
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
   ### EJERCICIOS CAPITULO 3
