@@ -153,7 +153,7 @@ Por lo tanto, un incremento en la temperatura resulta en una disminución de la 
 
 b. Determine al valor del coeficiente de temperatura, a, a 20°C. 
 
-<img src="main/pares%20cap3/28.JPG" width=500 >
+<img src="pares%20cap3/28.JPG" width=500 >
 
 29. Un calentador eléctrico está hecho de alambre de nicromo. El alambre tieneuna resistencia de 15.2 Ω a una temperatura de 20°C. Determine la resistenciadel alambre de nicromo cuando su temperatura aumente a 260°C.
 
@@ -205,6 +205,12 @@ d.  El contacto deslizante está en a.
 
 **3.6 Código de colores de resistores**
 
+34. Se mide la resistencia entre la terminal b del contacto deslizante y la terminal inferior c de un resistor variable de 200 kΩ y da 50 kΩ. Determine la resistencia que se medirá entre la terminal superior a, y la terminal del contacto deslizante b.
+
+
+<img src="pares%20cap3/34.JPG" width=500 >
+
+
 35. Dados los resistores con los siguientes códigos de colores (de izquierda a de-recha) determine la resistencia, la tolerancia y la confiabilidad de cada com-ponente. Exprese la incertidumbre en porcentaje y en ohms. 
 
 a.  Café    Verde   Amarillo    Plata
@@ -228,15 +234,35 @@ d.  Naranja   Blanco  Negro     Oro     Rojo
 
 **3.7 Medicion de resistencia: el óhmetro**
 
+36. Determine los códigos de colores requeridos si necesitara los siguientes resistores para un proyecto: 
+
+<img src="pares%20cap3/36.JPG" width=500 >
+
 37. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió.
 
 Se determina a través de óhmetro realizando una conexión entre las terminales, el óhmetro indica una conexión abierta la bombilla esta fundida.
+
+
+38. Si un óhmetro fuera colocado entre las terminales de un interruptor, ¿qué resistencia esperaría medir cuando los contactos del interruptor estén cerrados y cuando estén abiertos?
+
+Cuando se actúa sobre un interruptor abierto (NA), el interruptor se cierra, permitiendo la circulación eléctrica a su través, venciendo la fuerza ejercida por el muelle o resorte, y dando lugar al contacto eléctrico entres sus terminales
+
+Cerrado= cortocircuitos
+
+Abierto= circuito abierto 
 
 39. Explique cómo podría usar un óhmetro para determinar aproximadamentecuánto cable queda en un carrete de alambre de cobre AWG 24.
 
 En la tabla se puede observar que la resistencia del alambre AWG24 tiene una resistencia de 25.7 ohms/1000 pies se podría medir la resistencia entre los extremos y calcular la longitud
  
 I=R/(0.0257𝑜ℎ𝑚𝑠/𝑓𝑡)
+
+40. Se usa un óhmetro analógico para medir la resistencia de un componente de dos terminales. El óhmetro indica una resistencia de 1.5 kΩ. Cuando se invierten las terminales el medidor indica que la resistencia del componente es un circuito abierto. ¿El componente está defectuoso? Si no, ¿qué tipo de componente se está probando? 
+
+Normalmente el óhmetro se utiliza para indicar cantidades de resistencia, pero también se utiliza para pruebas de continuidad esta prueba determina si existe una conexión eléctrica continua de un punto a otro.
+
+El componente no está defectuoso. Ya que no se debe tomar en cuenta el polo positivo o el negativo, sino que la resistencia trabaja de cualquier manera.
+
 
 **3.8 Termistores**
 
@@ -255,6 +281,10 @@ b.  Determine la resistencia del dispositivo a 40°C.
 c.  ¿El  termistor  tiene  un  coeficiente  de  temperatura  positivo  o  negativo?Explique
 
 Coeficiente de temperatura negativo. La resistencia disminuye conforme se incrementa la temperatura.
+
+42. Para la fotocelda que tiene las características que se muestra en la figura 3-24(c), determine la resistencia 
+
+<img src="pares%20cap3/42.JPG" width=500 >
 
 **3.11 Conducctancia** 
 
@@ -276,9 +306,18 @@ d.  12.5 MΩ
 
 0.08 S
 
+44. Determine la resistencia de los componentes que tienen las siguientes conductancias:
+
+<img src="pares%20cap3/44.JPG" width=500 >
+
 45. Determine la conductancia de una barra colectora de aluminio que mide 200pies (a una temperatura de 20°C) la cual tiene una sección transversal quemide 4.0 pulgadas 0.25 pulgadas. Si la temperatura aumentara, ¿qué pasa-ría con la conductancia de la barra?
  
  ![image](https://user-images.githubusercontent.com/85126275/121825676-630f7a80-cc79-11eb-8cda-b9716c3d156f.png)
+ 
+ 46. Determine la conductancia de una barra colectora de aluminio que mide 200 pies (a una temperatura de 20°C) la cual tiene una sección transversal que mide 4.0 pulgadas x 0.25 pulgadas. Si la temperatura aumentara, ¿qué pasaría con la conductancia de la barra?
+
+<img src="pares%20cap3/46.JPG" width=500 >
+
 
  
  ### EJERCICIOS CAPITULO 4
