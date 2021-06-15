@@ -792,3 +792,5 @@ Potencia Electrica Continua y Alterna Todo. Areatecnologia.com. (2021). Retrieve
 ¿Qué es la energía eléctrica? ⚡ | Twenergy. Twenergy. (2021). Retrieved 15 June 2021, from https://twenergy.com/energia/energia-electrica/que-es-la-energia-electrica-381/.
 
 ¿Qué es la eficiencia energética?. factorenergia. (2021). Retrieved 15 June 2021, from https://www.factorenergia.com/es/blog/eficiencia-energetica/que-es-la-eficiencia-energetica/.
+
+Pablo Turmero, M. (2021). Simulacion de Circuitos - Pspice I - Monografias.com. Monografias.com. Retrieved 15 June 2021, from https://www.monografias.com/trabajos101/simulacion-circuitos-pspice-i/simulacion-circuitos-pspice-i.shtml.
