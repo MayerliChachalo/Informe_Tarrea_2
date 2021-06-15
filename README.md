@@ -552,9 +552,9 @@ G=1/(5.65x10^(-6) )=176991.1 S
 
 ## 4. VIDEO 
 
-## 5. CONCLUCIONES 
+## 5. CONCLUSIONES 
 
- - De acuerdo con los objetivos planteados y a la resolución de los ejercicios del capítulo 3 podemos decir que la corriente que pasa por un alambre se la puede predecir conociendo su calibre. Para expresar el área transversal de diámetros muy pequeños se puede hacer la conversión en milésimas cuadradas y circulares. 
+ - De acuerdo con los objetivos planteados y a la resolución de los ejercicios del capítulo 3 podemos decir que la corriente que pasa por un alambre se la puede predecir conociendo su calibre. Para expresar el área transversal de sólidos circulares de diámetros muy pequeños se puede hacer la conversión en milésimas cuadradas y circulares.  
  - 
 
 
