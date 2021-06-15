@@ -338,6 +338,144 @@ d.  12.5 MΩ
 
 <img src="pares%20cap3/46.JPG" width=500 >
 
+### **EJERCICIOS PARES** 
+
+3-1 RESISTENCIA DE CONDUCTORES
+2.- Determine la resistencia, a 20ºC, de 200 pies de conductores de hierro que tienen las siguientes secciones transversales:
+a. Cuadrada de 0.25 x 0.25 pulgadas 
+R=pl/A=((12.30 x 10^(-8) Ω-m )(0.3048 m))/(4.03 x 10^(-5)  m^2 )=9.30 x 10^(-4) Ω=0.90 mΩ
+ A=〖(0.00635)〗^2=4.03 x 10^(-5)  m^2
+b. Redonda de 0.125 pulgadas de diámetro 
+R=pl/A=((12.30 x 10^(-8) Ω-m )(0.3048 m))/(7.5 10^(-8) m^2 )=0.49 Ω
+A=(πd^2)/4=  (π( 〖3.1 x10^(-4)  m)〗^2)/4=7.5 10^(-8) m^2
+c. Rectangular de 0.125 x 4.0 pulgadas
+R=pl/A=((12.30 x 10^(-8) Ω-m )(0.3048 m))/(1.2 x10^(-2) m^2 )=3.1 x 10^(-6) Ω=3.1 μΩ
+A=0.125x4=0.5 pulgadas=1.2 x10^(-2) m^2
+4. El alambre de nicromo se usa para construir elementos calefactores. Determine la longitud de un alambre de nicromo de 1.0 mm de diámetro que se necesita para producir un elemento calefactor que tenga una resistencia de 2.0 ohm a una temperatura de 20°C.
+1.0mm=1 x 10^(-3) m
+l=AR/p=(2 Ω(7.8 10^(-4) m^2))/((99.72 x 10^(-8) Ω-m ))=1564 m
+A=(πd^2)/4=  (π( 〖1 x 10^(-3) m)〗^2)/4=7.8 10^(-4) m^2
+6. Una pieza de alambre de aluminio tiene una resistencia, a 20°C, de 20 Ω. Si este alambre se funde y se usa para producir un segundo alambre que tiene una longitud cuatro veces más grande que la original, ¿cuál será la resistencia del nuevo alambre a 20°C? (Sugerencia: el volumen del alambre no ha cambiado.)
+R=pl/A
+20=(2.825 x 10^(-4)  )x/((π〖(5.7x10^(-4))〗^2)/4)
+x=31.4
+La medida del nuevo alambre es : 125.66
+8. Un alambre sólido circular de 200 m de longitud y con un diámetro de 0.4 mm tiene una resistencia de 357 Ω  a 20°C. ¿De qué material está hecho el alambre?
+Está hecho de PLOMO
+p=AR/l=(1.2 〖10^(-7)  m〗^2 (357 Ω))/(200  m)=22 x 10^(-8)
+A=(πd^2)/4=  (π( 〖4 x 10^(-4) m)〗^2)/4=1.2 〖10^(-7)  m〗^2
+10.  Una sección de alambre de hierro con un diámetro de 0.030 pulgadas tiene una resistencia de 2 500 Ω (a una temperatura de 20°C).
+a. Determine el área de la sección transversal en metros cuadrados y en milímetros cuadrados. (Nota: una pulgada = 2.54 cm = 25.4 mm)
+A=(πd^2)/4=  (π( 〖7.6 x 10^(-4) m)〗^2)/4=4.5 10^(-7 ) m^2  
+A=(πd^2)/4=  (π( 〖7.6 x 10^(-1) m)〗^2)/4=0.45 〖mm〗^2
+ b. Calcule la longitud del alambre en metros.
+l=AR/p=(2 500 Ω(4.5 〖x10〗^(-7 ) m^2))/((12.30 x 10^(-8 ) Ω-m ))=9146 m
+
+3-2 TABLA DE ALAMBRES ELÉCTRICO
+12. Use la tabla 3-2 para encontrar la resistencia de 250 m de conductores de cobre sólido AWG 8 y AWG 2. Compare los diámetros y resistencias de los alambres.
+AWG 8: Diámetro de 0.1285 pulgadas. Resistencia 0.6281 
+AWG 2: Diámetro de 0.2575 pulgadas. Resistencia 0.1563 
+14. Si el AWG 8 se especifica para un máximo de 40 A, ¿cuánta corriente podrá conducir con seguridad el AWG 2?
+Ya que el alambre AWG 8 es 6 veces menor que AWG 2, el cable de diámetro menor será capaz de conducir cerca de una sexto de la capacidad del cable de diámetro mas grande. 
+AWG 8: Será capaz de conducir 6.6 A de corriente.
+AWG 2: Será capaz de conducir 40 A  
+16. ¿Cuánta corriente será capaz de conducir un alambre de cobre AWG 36?
+La capacidad de corriente se duplica por cada incremento de tres calibres, y se reduce de igual forma, el AWG 36 será capaz de conducir 2 A. 
+3-3 RESISTENCIA DE ALAMBRES: MILÉSIMA CIRCULAR
+18. Exprese las áreas de las secciones transversales de los conductores del problema 17 en milésimas y milímetros cuadrados.
+1 milésima cuadrada =4/π MC
+	265 MC = 208 milésimas cuadradas = 134 .19 milímetros cuadrados.
+	6200 MC = 4869 milésimas cuadradas = 3141.3 milímetros cuadrados.
+	1910 MC = 1500 milésimas cuadradas = 967.7 milímetros cuadrados.
+
+20. Determine el diámetro en pulgadas y en milímetros de cables circulares que tiene las siguientes áreas se secciones transversales (suponga que los cables son conductores sólidos):
+a. 250 MC = 15.8 milésimas = 0.0158 pulgadas = 0.40132 milímetros 
+b. 1000 MC = 31. 63 milésimas = 0.0316 pulgadas= 0.80264 milímetros
+c. 250 MMC = 250 000 MC = 500 milésimas = 0.5 pulgadas= 12.7 milímetros
+d. 750 MMC = 750 000 MC= 866 milésimas= 0.866 pulgadas= 21.9 milímetros
+
+22. Repita el problema 21 si el alambre está hecho de nicromo.
+Un alambre de nicromo sólido de 200 pies tiene una resistencia de 0.500 ohm. 
+	Determine el área de sección transversal del alambre en milésimas cuadradas y milésimas circulares. 
+1 pie = 12 pulgadas 
+200 pies = 2400 pulgadas 
+A=pl/R=((200)(3.24 x10-6))/0.5=0.0012 pies cuadrados
+0.0012= 0.17 pulgada cuadrada =170 milésimas cuadradas = 133 milésimas circulares 
+	Determine el diámetro del alambre en milésimas y en pulgadas.
+d= 11.53 milésimas =0.011pulgadas 
+
+
+26. Se diseña un alambre para uso doméstico de cobre sólido AWG 14 para operar dentro de un intervalo de temperatura de -40°C a 90°C. Calcule la resistencia de 200 pies de circuito de alambre a ambas temperaturas. Nota: un pie de circuito es la longitud del cable necesario para que la corriente viaje hacia una carga y de regreso.
+AWG 14= 2.525
+R-40°C =(-40 °C-(-234 °C ))/(20 °C-(-234 °C ) )*2.525=1.9285Ω 
+R90 °C=(90°C-(-234°C ))/(20°C-(-234°C ))*2.525=3.2208Ω
+28. Cierto material tiene una resistencia de 100 Ω a temperatura ambiente (20°C) y de 150 Ω a -25°C. a. ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente. 
+Cualquier material para el cual la resistencia aumenta conforme se incrementa la temperatura se dice que tiene un coeficiente de temperatura positivo 
+Conforme la temperatura se incrementa, el número de electrones de carga aumenta, lo que resulta en más corriente. Por lo tanto, un incremento en la temperatura resulta en una disminución de la resistencia y, en consecuencia, estos materiales tienen coeficientes de temperatura negativos.
+b. Determine al valor del coeficiente de temperatura, a, a 20°C. 
+T2=(T1-T)R2/R1+T
+T2=(20°C-(-25°C))(100Ω)/150Ω+(-25°C)
+T2=11.66 °C
+
+
+30. Un diodo de silicio tiene una resistencia de 500 Ω a 20°C. Determine la resistencia del diodo si su temperatura se incrementa con un cautín a 30° C. (Suponga que la función de resistencia frente a temperatura es lineal.)
+
+
+32. Deduzca la expresión de la ecuación 3-8
+ 
+Para calcular la resistencia de un conductor a diferentes temperaturas
+α20=1/(T1+20°C)
+
+Definido como el coeficiente de temperatura de resistencia a una temperatura de 20 °C y R20 determinaremos la resistencia R1 a una temperatura T1 según
+R1=R20(1+α20(T1-20°C))
+Esta ecuación puede escribirse como:
+α20=((R1-R20)/(T1-20°C))/R20=(ΔR/ΔT)/R20
+Podemos concluir que cuando mas alto es el coeficiente de temperatura de la resistencia de un material, más sensible es el nivel de la resistencia a los cambios de temperatura.
+34. Se mide la resistencia entre la terminal b del contacto deslizante y la terminal inferior c de un resistor variable de 200 kΩ y da 50 kΩ. Determine la resistencia que se medirá entre la terminal superior a, y la terminal del contacto deslizante b.
+Rac=Rab+Rbc
+50 kΩ-250kΩ=-150kΩ
+50 kΩ=200kΩ-150kΩ
+36. Determine los códigos de colores requeridos si necesitara los siguientes resistores para un proyecto: 
+a. 33 kΩ ± 5%, 0.1% de confiabilidad
+Naranja-Naranja-Negro-Oro-Rojo
+ b. 820 Ω ± 10% 
+Gris-Rojo-Café-Plata
+c. 15 Ω ± 20% 
+Café-Verde-Negro-Sin color
+d. 2.7 MΩ ± 5 %
+Rojo-Violeta-Violeta-Oro
+
+38. Si un óhmetro fuera colocado entre las terminales de un interruptor, ¿qué resistencia esperaría medir cuando los contactos del interruptor estén cerrados y cuando estén abiertos?
+Cuando se actúa sobre un interruptor abierto (NA), el interruptor se cierra, permitiendo la circulación eléctrica a su través, venciendo la fuerza ejercida por el muelle o resorte, y dando lugar al contacto eléctrico entres sus terminales
+Cerrado= cortocircuitos
+Abierto= circuito abierto 
+40. Se usa un óhmetro analógico para medir la resistencia de un componente de dos terminales. El óhmetro indica una resistencia de 1.5 kΩ. Cuando se invierten las terminales el medidor indica que la resistencia del componente es un circuito abierto. ¿El componente está defectuoso? Si no, ¿qué tipo de componente se está probando? 
+Normalmente el óhmetro se utiliza para indicar cantidades de resistencia, pero también se utiliza para pruebas de continuidad esta prueba determina si existe una conexión eléctrica continua de un punto a otro.
+El componente no está defectuoso. Ya que no se debe tomar en cuenta el polo positivo o el negativo, sino que la resistencia trabaja de cualquier manera.
+42. Para la fotocelda que tiene las características que se muestra en la figura 3-24(c), determine la resistencia 
+ 
+	en un sótano con iluminación atenuada de 10 lux 
+       R= 20kΩ
+	en una casa con una iluminación de 50 lux 
+R=5.02kΩ
+	en un salón de clases con una iluminación de 500 lux
+R=550 Ω
+
+44. Determine la resistencia de los componentes que tienen las siguientes conductancias:
+G=1/R(siemens,SI)
+ a. 62.5 uS 
+R=1/62.5=0.016 kΩ
+b. 2 500 mS 
+R=1/2500=4x10^(-4) Ω
+	5.75 mS 
+R=1/5.75=0.17Ω
+d. 25.0 S
+R=1/25.0=0.04 mΩ
+46. Determine la conductancia de una barra colectora de aluminio que mide 200 pies (a una temperatura de 20°C) la cual tiene una sección transversal que mide 4.0 pulgadas x 0.25 pulgadas. Si la temperatura aumentara, ¿qué pasaría con la conductancia de la barra?
+Seccion transversal A=4*0.25 pulgadas=1 pulgada
+R=pl/A=(2.825x10^(-8)*200)/1=5.65x10^(-6)  Ω
+G=1/R
+G=1/(5.65x10^(-6) )=176991.1 S
 
  
  ### EJERCICIOS CAPITULO 4
@@ -345,9 +483,5 @@ d.  12.5 MΩ
 ## 4. VIDEO 
 
 ## 5. CONCLUCIONES 
-
-Como conclusión podemos decir que cada una de las fórmulas encontradas en los temas asi como los resitores, conductancia, temperatura etc, del capítulo 3 y 4 son necesarios para encontrar valores desconocidos. 
-
-En este trabajo podemos decir que aprendimos, entendimos y comprendimos cada una de las teorías y conceptos tratados en los dos temas de trabajo.
 
 ## 6. BIBLIOGRAFÍA
