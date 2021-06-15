@@ -770,4 +770,6 @@ https://youtu.be/htAFGQzynxw
 
 ## 5. CONCLUCIONES 
 
+De acuerdo con los objetivos planteados y a la resolución de los ejercicios del capítulo 3 podemos decir que la corriente que pasa por un alambre se la puede predecir conociendo su calibre. Para expresar el área transversal de sólidos circulares de diámetros muy pequeños se puede hacer la conversión en milésimas cuadradas y circulares.  
+
 ## 6. BIBLIOGRAFÍA
