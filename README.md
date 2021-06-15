@@ -4,6 +4,13 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 ## 1. OBJETIVOS 
 
+Calcular el voltaje, la corriente y la resistencia en circuitos simples utilizando la ley de Ohm.
+
+ Describir cómo el voltaje, la corriente y la potencia se relacionan en un circuito resistivo.
+
+Calcular la energía usada por cargas eléctricas
+Determinar la potencia disipada por cualquier resistor en un circuito en serie y demostrar que la potencia total disipada es exactamente igual a la potencia entregada por la fuente de voltaje.
+
 ## 2. MARCO TEÓRICO 
 
 ### Capitulo 3 
