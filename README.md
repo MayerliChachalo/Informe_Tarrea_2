@@ -770,6 +770,10 @@ https://youtu.be/htAFGQzynxw
 
 ## 5. CONCLUCIONES 
 
- De acuerdo con los objetivos planteados y a la resolución de los ejercicios del capítulo 3 podemos decir que la corriente que pasa por un alambre se la puede predecir conociendo su calibre. Para expresar el área transversal de sólidos circulares de diámetros muy pequeños se puede hacer la conversión en milésimas cuadradas y circulares.  
+-De acuerdo con los objetivos planteados y a la resolución de los ejercicios del capítulo 3 podemos decir que la corriente que pasa por un alambre se la puede predecir conociendo su calibre. Para expresar el área transversal de sólidos circulares de diámetros muy pequeños se puede hacer la conversión en milésimas cuadradas y circulares.
+
+-Como conclusión podemos decir que cada una de las fórmulas encontradas en los temas asi como los resitores, conductancia, temperatura etc, del capítulo 3 y 4 son necesarios para encontrar valores desconocidos. 
+
+-En este trabajo podemos decir que aprendimos, entendimos y comprendimos cada una de las teorías y conceptos tratados en los dos temas de trabajo.
 
 ## 6. BIBLIOGRAFÍA
