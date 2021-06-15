@@ -64,7 +64,7 @@ b. Redonda de 0.125 pulgadas de diámetro
 
 c. Rectangular de 0.125 x 4.0 pulgadas
 
-
+<img src="cap3/0.PNG" >
  
  ![image](https://user-images.githubusercontent.com/85126275/121818084-b61e0900-cc4a-11eb-8348-f9d1de2a1ada.png)
 
@@ -553,5 +553,10 @@ G=1/(5.65x10^(-6) )=176991.1 S
 ## 4. VIDEO 
 
 ## 5. CONCLUCIONES 
+
+ - De acuerdo con los objetivos planteados y a la resolución de los ejercicios del capítulo 3 podemos decir que la corriente que pasa por un alambre se la puede predecir conociendo su calibre. Para expresar el área transversal de diámetros muy pequeños se puede hacer la conversión en milésimas cuadradas y circulares. 
+ - 
+
+
 
 ## 6. BIBLIOGRAFÍA
