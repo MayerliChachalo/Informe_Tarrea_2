@@ -346,4 +346,8 @@ d.  12.5 MΩ
 
 ## 5. CONCLUCIONES 
 
+Como conclusión podemos decir que cada una de las fórmulas encontradas en los temas asi como los resitores, conductancia, temperatura etc, del capítulo 3 y 4 son necesarios para encontrar valores desconocidos. 
+
+En este trabajo podemos decir que aprendimos, entendimos y comprendimos cada una de las teorías y conceptos tratados en los dos temas de trabajo.
+
 ## 6. BIBLIOGRAFÍA
