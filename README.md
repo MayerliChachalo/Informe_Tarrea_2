@@ -784,3 +784,11 @@ https://youtu.be/htAFGQzynxw
 -En este trabajo podemos decir que aprendimos, entendimos y comprendimos cada una de las teorías y conceptos tratados en los dos temas de trabajo.
 
 ## 6. BIBLIOGRAFÍA
+
+¿Qué es Multisim™?. Ni.com. (2021). Retrieved 15 June 2021, from https://www.ni.com/es-cr/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html.
+
+Potencia Electrica Continua y Alterna Todo. Areatecnologia.com. (2021). Retrieved 15 June 2021, from https://www.areatecnologia.com/electricidad/potencia-electrica.html#%C2%BFQue_es_Potencia_Electrica.
+
+¿Qué es la energía eléctrica? ⚡ | Twenergy. Twenergy. (2021). Retrieved 15 June 2021, from https://twenergy.com/energia/energia-electrica/que-es-la-energia-electrica-381/.
+
+¿Qué es la eficiencia energética?. factorenergia. (2021). Retrieved 15 June 2021, from https://www.factorenergia.com/es/blog/eficiencia-energetica/que-es-la-eficiencia-energetica/.
