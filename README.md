@@ -766,6 +766,8 @@ D.	 Si V cambia de 50 a 70 V, ¿cuánto cambia I?
 
 ## 4. VIDEO 
 
+https://youtu.be/htAFGQzynxw
+
 ## 5. CONCLUCIONES 
 
 ## 6. BIBLIOGRAFÍA
