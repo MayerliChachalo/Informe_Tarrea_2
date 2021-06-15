@@ -10,6 +10,12 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily
 
 ![capitulo 3](https://user-images.githubusercontent.com/85126275/121970427-25275a80-cd3c-11eb-8943-c87dd7505911.jpg)
 
+![Tipos de resistores](https://user-images.githubusercontent.com/85126275/121982475-2b760080-cd55-11eb-82c5-48c5089ec01e.jpg)
+
+![Conductancia](https://user-images.githubusercontent.com/85126275/121975954-72112e00-cd48-11eb-8175-320b68aa2be7.jpg)
+
+![SUPERCONDUCTORES](https://user-images.githubusercontent.com/85126275/121979314-8a387b80-cd4f-11eb-817a-d2ea67243ee7.jpg)
+
 
 ### Capitulo 4 
 ![image](https://user-images.githubusercontent.com/85126275/121965202-497e3980-cd32-11eb-9e2c-1709be87b040.png)
