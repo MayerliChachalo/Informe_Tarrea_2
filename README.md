@@ -51,6 +51,11 @@ c. 0.005 mm
 ![image](https://user-images.githubusercontent.com/85126275/121818077-ac94a100-cc4a-11eb-8bfe-206200792110.png)
 
 d. 0.5 cm 
+2.- Determine la resistencia, a 20ºC, de 200 pies de conductores de hierro que tienen las siguientes secciones transversales: 
+
+a. Cuadrada de 0.25 x 0.25 pulgadas  
+b. Redonda de 0.125 pulgadas de diámetro
+c. Rectangular de 0.125 x 4.0 pulgadas 
  
  ![image](https://user-images.githubusercontent.com/85126275/121818084-b61e0900-cc4a-11eb-8348-f9d1de2a1ada.png)
 
@@ -60,17 +65,27 @@ d. 0.5 cm
 
 ![image](https://user-images.githubusercontent.com/85126275/121818419-adc6cd80-cc4c-11eb-99a1-a993449940b1.png)
 
+4. El alambre de nicromo se usa para construir elementos calefactores. Determine la longitud de un alambre de nicromo de 1.0 mm de diámetro que se necesita para producir un elemento calefactor que tenga una resistencia de 2.0 ohm a una temperatura de 20°C. 
+
 5. Un alambre de cobre con un diámetro de 0.80 mm tiene una resistencia de 10.3 a 20°C. ¿Cuanto mide el alambre en metros y en pies?
 
 ![image](https://user-images.githubusercontent.com/85126275/121818488-0dbd7400-cc4d-11eb-903b-62b415e70526.png)
+
+6. Una pieza de alambre de aluminio tiene una resistencia, a 20°C, de 20 Ω. Si este alambre se funde y se usa para producir un segundo alambre que tiene una longitud cuatro veces más grande que la original, ¿cuál será la resistencia del nuevo alambre a 20°C? (Sugerencia: el volumen del alambre no ha cambiado.) 
 
 7. Determine la resistividad (en ohm-metros) de un cilindro de grafito con basede carbón que tiene una longitud de 6.00 cm, un diámetro de 0.50 mm y una resistencia medida de 3.0  a 20°C. ¿Cómo se compara este valor con la re-sistividad que se reporta para el carbón?
 
 ![image](https://user-images.githubusercontent.com/85126275/121818689-4b6ecc80-cc4e-11eb-833c-678939f64e97.png)
 
+8. Un alambre sólido circular de 200 m de longitud y con un diámetro de 0.4 mm tiene una resistencia de 357 Ω a 20°C. ¿De qué material está hecho el alambre? 
+
 9. Una sección de 2 500 m de alambre de aleación tiene una resistencia de 32.Si el alambre tiene un diámetro de 1.5 mm, determine la resistividad del ma-terial en ohm-metros. ¿La aleación es mejor conductora que el cobre?
 
 ![image](https://user-images.githubusercontent.com/85126275/121818898-bff63b00-cc4f-11eb-83c3-1e1f86ec6e5d.png)
+
+10.  Una sección de alambre de hierro con un diámetro de 0.030 pulgadas tiene una resistencia de 2 500 Ω (a una temperatura de 20°C). 
+
+a. Determine el área de la sección transversal en metros cuadrados y en milímetros cuadrados. (Nota: una pulgada = 2.54 cm = 25.4 mm) 
 
 **3.2 Tabla de alambre eléctricos**
 
@@ -78,15 +93,33 @@ d. 0.5 cm
 
 ![image](https://user-images.githubusercontent.com/85126275/121821196-2d5c9880-cc5d-11eb-9863-1766039c925b.png)
 
+12. Use la tabla 3-2 para encontrar la resistencia de 250 m de conductores de cobre sólido AWG 8 y AWG 2. Compare los diámetros y resistencias de los alambres. 
+
+AWG 8: Diámetro de 0.1285 pulgadas. Resistencia 0.6281  
+
+AWG 2: Diámetro de 0.2575 pulgadas. Resistencia 0.1563  
+
 13. Determine la máxima corriente que puede conducir un alambre AWG 19 yuno AWG 30. 
 
 El alambre de cobre AWG 19 es capaz de soportar 4 A ,por lo tanto el alambre AWG 30 es menor y será capaz de soportar la onceava parte del amperaje
 
 ![image](https://user-images.githubusercontent.com/85126275/121821345-0e123b00-cc5e-11eb-8bf0-02d76cd88640.png)
 
+14. Si el AWG 8 se especifica para un máximo de 40 A, ¿cuánta corriente podrá conducir con seguridad el AWG 2? 
+
+Ya que el alambre AWG 8 es 6 veces menor que AWG 2, el cable de diámetro menor será capaz de conducir cerca de una sexto de la capacidad del cable de diámetro mas grande.  
+
+AWG 8: Será capaz de conducir 6.6 A de corriente. 
+
+AWG 2: Será capaz de conducir 40 A   
+
 15. e determina que un carrete de alambre de transformador de cobre AWG 36tiene una resistencia de 550 a una temperatura de 20°C. ¿Cuánto mide elalambre en metros?
 
 ![image](https://user-images.githubusercontent.com/85126275/121821443-a3153400-cc5e-11eb-917c-a5974c5dc952.png)
+
+16. ¿Cuánta corriente será capaz de conducir un alambre de cobre AWG 36? 
+
+La capacidad de corriente se duplica por cada incremento de tres calibres, y se reduce de igual forma, el AWG 36 será capaz de conducir 2 A.  
 
 **Resistencia de alambres: milesima circular** 
 
@@ -105,6 +138,14 @@ c. Barra colectora regulr de 0.25 x 6.0 pulgadas.
 
 ![image](https://user-images.githubusercontent.com/85126275/121821963-ffc61e00-cc61-11eb-92fd-2fe5d12be50d.png)
 
+18. Exprese las áreas de las secciones transversales de los conductores del problema 17 en milésimas y milímetros cuadrados. 
+
+a. 265 MC = 208 milésimas cuadradas = 134 .19 milímetros cuadrados. 
+
+b. 6200 MC = 4869 milésimas cuadradas = 3141.3 milímetros cuadrados. 
+
+c. 1910 MC = 1500 milésimas cuadradas = 967.7 milímetros cuadrados. 
+
 19. Calcule la resistencia, a 20°C, de 400 pies de conductores de cobre que tienelas mismas áreas de sección transversal que las del problema 17.
 
 a.
@@ -118,6 +159,16 @@ b.
 c. 
 
 ![image](https://user-images.githubusercontent.com/85126275/121824042-d2cc3800-cc6e-11eb-940a-721e2274bf63.png)
+
+20. Determine el diámetro en pulgadas y en milímetros de cables circulares que tiene las siguientes áreas se secciones transversales (suponga que los cables son conductores sólidos): 
+
+a. 250 MC = 15.8 milésimas = 0.0158 pulgadas = 0.40132 milímetros  
+
+b. 1000 MC = 31. 63 milésimas = 0.0316 pulgadas= 0.80264 milímetros 
+
+c. 250 MMC = 250 000 MC = 500 milésimas = 0.5 pulgadas= 12.7 milímetros 
+
+d. 750 MMC = 750 000 MC= 866 milésimas= 0.866 pulgadas= 21.9 milímetros 
 
 21. Un alambre de cobre sólido de 200 pies tiene una resistencia de 0.500Ω.
 
