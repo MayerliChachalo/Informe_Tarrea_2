@@ -51,11 +51,20 @@ c. 0.005 mm
 ![image](https://user-images.githubusercontent.com/85126275/121818077-ac94a100-cc4a-11eb-8bfe-206200792110.png)
 
 d. 0.5 cm 
+
 2.- Determine la resistencia, a 20ºC, de 200 pies de conductores de hierro que tienen las siguientes secciones transversales: 
 
 a. Cuadrada de 0.25 x 0.25 pulgadas  
+
+<img src="cap3/2.PNG" >
+
 b. Redonda de 0.125 pulgadas de diámetro
-c. Rectangular de 0.125 x 4.0 pulgadas 
+
+<img src="cap3/2.b.PNG"  >
+
+c. Rectangular de 0.125 x 4.0 pulgadas
+
+
  
  ![image](https://user-images.githubusercontent.com/85126275/121818084-b61e0900-cc4a-11eb-8348-f9d1de2a1ada.png)
 
@@ -67,11 +76,15 @@ c. Rectangular de 0.125 x 4.0 pulgadas
 
 4. El alambre de nicromo se usa para construir elementos calefactores. Determine la longitud de un alambre de nicromo de 1.0 mm de diámetro que se necesita para producir un elemento calefactor que tenga una resistencia de 2.0 ohm a una temperatura de 20°C. 
 
+<img src="cap3/4.PNG"  >
+
 5. Un alambre de cobre con un diámetro de 0.80 mm tiene una resistencia de 10.3 a 20°C. ¿Cuanto mide el alambre en metros y en pies?
 
 ![image](https://user-images.githubusercontent.com/85126275/121818488-0dbd7400-cc4d-11eb-903b-62b415e70526.png)
 
 6. Una pieza de alambre de aluminio tiene una resistencia, a 20°C, de 20 Ω. Si este alambre se funde y se usa para producir un segundo alambre que tiene una longitud cuatro veces más grande que la original, ¿cuál será la resistencia del nuevo alambre a 20°C? (Sugerencia: el volumen del alambre no ha cambiado.) 
+
+<img src="cap3/6.PNG"  >
 
 7. Determine la resistividad (en ohm-metros) de un cilindro de grafito con basede carbón que tiene una longitud de 6.00 cm, un diámetro de 0.50 mm y una resistencia medida de 3.0  a 20°C. ¿Cómo se compara este valor con la re-sistividad que se reporta para el carbón?
 
@@ -79,13 +92,15 @@ c. Rectangular de 0.125 x 4.0 pulgadas
 
 8. Un alambre sólido circular de 200 m de longitud y con un diámetro de 0.4 mm tiene una resistencia de 357 Ω a 20°C. ¿De qué material está hecho el alambre? 
 
+<img src="cap3/8.PNG"  >
+
 9. Una sección de 2 500 m de alambre de aleación tiene una resistencia de 32.Si el alambre tiene un diámetro de 1.5 mm, determine la resistividad del ma-terial en ohm-metros. ¿La aleación es mejor conductora que el cobre?
 
 ![image](https://user-images.githubusercontent.com/85126275/121818898-bff63b00-cc4f-11eb-83c3-1e1f86ec6e5d.png)
 
 10.  Una sección de alambre de hierro con un diámetro de 0.030 pulgadas tiene una resistencia de 2 500 Ω (a una temperatura de 20°C). 
 
-a. Determine el área de la sección transversal en metros cuadrados y en milímetros cuadrados. (Nota: una pulgada = 2.54 cm = 25.4 mm) 
+<img src="cap3/10.PNG"  >
 
 **3.2 Tabla de alambre eléctricos**
 
@@ -180,6 +195,10 @@ a.  Determine el área de sección transversal del alambre en milésimas cuadra-
 b.  Determine el diámetro del alambre en milésimas y en pulgadas
 
 ![image](https://user-images.githubusercontent.com/85126275/121824144-90efc180-cc6f-11eb-8bfd-46307ae55fd2.png)
+
+22. Repita el problema 21 si el alambre está hecho de nicromo. 
+
+<img src="cap3/22.PNG"  >
 
 23. Un carrete de alambre de cobre sólido con un diámetro de 0.040 pulgadastiene una resistencia de 12.5Ω (a una temperatura de 20°C).
 
